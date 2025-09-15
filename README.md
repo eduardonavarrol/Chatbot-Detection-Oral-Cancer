@@ -121,5 +121,6 @@ The chatbot (`Chatbot.py`) provides:
 - Models were benchmarked across **accuracy, sensitivity, specificity, and Diagnostic Odds Ratio (DOR)**.  
 
 ## 🏗️ System Architecture
-![System Architecture](System_Architecture.png)
+![System Architecture](https://comunidadingenieria.cl/System_Architecture.png)
+
 
