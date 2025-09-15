@@ -100,16 +100,17 @@ The chatbot (`Chatbot.py`) provides:
    cd oral-cancer-chatbot
 
 2. Install dependencies:
-
-   - pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3. Preprocess dataset:
-   - Run preprocessed/Preprocessed.ipynb
+   ```bash
+   Run preprocessed/Preprocessed.ipynb
 
-4. Train models:
+5. Train models:
    - Use notebooks inside /models/
   
-5. Run chatbot:
+6. Run chatbot:
    -python chatbot/Chatbot.py
 
 ## 🧪 Methodology
