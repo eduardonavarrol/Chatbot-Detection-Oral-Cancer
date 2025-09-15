@@ -111,7 +111,8 @@ The chatbot (`Chatbot.py`) provides:
    - Use notebooks inside /models/
   
 6. Run chatbot:
-   -python chatbot/Chatbot.py
+   ```bash
+   python chatbot/Chatbot.py
 
 ## 🧪 Methodology
 - CNN architectures were fine-tuned using **transfer learning**.  
