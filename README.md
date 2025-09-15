@@ -120,4 +120,5 @@ The chatbot (`Chatbot.py`) provides:
 - Evaluation performed using **5-fold cross-validation**.  
 - Models were benchmarked across **accuracy, sensitivity, specificity, and Diagnostic Odds Ratio (DOR)**.  
 
-
+## 🏗️ System Architecture
+![caption](ruta.png)
